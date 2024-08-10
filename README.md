@@ -3,5 +3,4 @@
 
 <p>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DANNHIROAKI&show_icons=true&theme=vision-friendly-dark">
-  <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNHIROAKI&langs_count=100&layout=compact&theme=radical">
 </p>
