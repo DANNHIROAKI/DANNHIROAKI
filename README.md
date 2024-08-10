@@ -2,5 +2,5 @@
 
 
 <p>
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DANNHIROAKI&show_icons=true&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=DANNHIROAKI&show_icons=true&theme=vision-friendly-dark">
 </p>
