@@ -1,4 +1,4 @@
-🤔Bio出门左转去[个人主页]([https://orcid.org/0000-0002-2082-5363](https://dannhiroaki.github.io/))
+🤔Bio出门左转去[个人主页]([https://dannhiroaki.github.io/)
 
 
 <p>
