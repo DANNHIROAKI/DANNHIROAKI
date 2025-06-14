@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/ragehtsghndf.jpeg" alt="4ea0326ef75c39ddd83a0f807c1d944" width=600 /> 
+ ![](https://komarev.com/ghpvc/?username=DANNHIROAKI&color=green) 
 
 🤔Bio出门左转去[个人主页](https://dannhiroaki.github.io/)
 
